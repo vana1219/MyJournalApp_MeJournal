@@ -1,0 +1,7 @@
+body {
+    background-image: url("/pics/cactus.jpg");
+    background-size: cover; /* Ensure the background image covers the entire body */
+    background-repeat: no-repeat; /* Prevent the background image from repeating */
+    background-position: center; /* Center the background image */
+    background-attachment: fixed;
+}
