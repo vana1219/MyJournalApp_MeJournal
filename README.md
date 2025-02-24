@@ -1,6 +1,6 @@
 # MyJournalApp_MeJournal
 
-> Link to README: [https://github.com/danielo83996/FlightSystemDB](https://github.com/vana1219/MyJournalApp_MeJournal.git)
+> Link to README: https://github.com/vana1219/MyJournalApp_MeJournal.git
 
 ## Table of Contents
 * [Overview](#overview)
